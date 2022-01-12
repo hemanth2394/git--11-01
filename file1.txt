@@ -1,2 +1,2 @@
 This is my first sample file
-adding second line
+adding second line from git hub
